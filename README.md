@@ -14,7 +14,7 @@ Die Aufnahme wurde künstlich aufgehellt, auf dem Original ist mit bloßem Auge 
 
 ### Samstag, 17. März 2018
 
-Um **14:34 Uhr** sorgt etwas außerhalb des Kasten für eine Unterbrechung des Lichteinfalls durch einen Spalt, wodurch eine kurze Aufnahme startet, ein Vogel ist jedoch nicht zu sehen.
+Um **14:34 Uhr** sorgt etwas außerhalb des Kastens für eine Unterbrechung des Lichteinfalls durch einen Spalt, wodurch eine kurze Aufnahme startet, ein Vogel ist jedoch nicht zu sehen.
 
 ### Montag, 19. März 2018
 
@@ -27,3 +27,21 @@ Um **7:49 Uhr** zeigen sich dann die offenbar Verantwortlichen. Es handelt sich 
 Die beiden suchen den Kasten um **13:09 Uhr** erneut auf.
 
 ![Meisenpaar](/images/2018-03-19_Meisenpaar_2.png)
+
+### Dienstag, 20. März 2018
+
+Mit dem sonnigen Tag steigt auch die Betriebsamkeit rund um den Kasten. Der Frühling scheint sich langsam durchzusetzen. So kommt es bereits um **7:46 Uhr** zu einem Besuch der beiden, augenscheinlich selben Meisen wie schon am Tag zuvor.
+
+![Meisenpaar](/images/2018-03-20_Meisenpaar.png)
+
+Um **9:13 Uhr** sorgt wieder außen etwas für Schatten, scheinbar Vögel am Einflugsloch.
+
+Ab **11:24 Uhr** lösen erneut zwei Aufnahmen aus. Diesmal zeigt sich ein neues Gesicht.
+
+![Neues Gesicht](/images/2018-03-20_Neues_Gesicht.png)
+
+Wie sich in der zweiten Aufnahme um **11:25 Uhr** herausstellt, kommt auch der Neuzugang nicht allein.
+
+![Neues Paar](/images/2018-03-20_Neues_Paar.png)
+
+Auch um **12:10 Uhr** lösen rege Bewegungen mit Schattenwurf eine Aufnahme aus, ein Vogel ist nicht sichtbar.
