@@ -8,6 +8,6 @@ Um **7:57 Uhr** startete die erste Videoaufnahme ausgelöst durch einen Vogel. D
 
 Die Aufnahme wurde künstlich aufgehellt, auf dem Original ist mit bloßem Auge kaum etwas zu erkennen. 
 
-**Original**: ![Erste Aufnahme einer Meise im Kasten (Original)](/images/2018-03-16_Meise_Original.png)
-
 **Aufgehellt**: ![Erste Aufnahme einer Meise im Kasten (Aufgehellt)](/images/2018-03-16_Meise.jpg)
+
+**Original**: ![Erste Aufnahme einer Meise im Kasten (Original)](/images/2018-03-16_Meise_Original.png)
