@@ -48,6 +48,6 @@ Auch um **12:10 Uhr** lösen rege Bewegungen mit Schattenwurf eine Aufnahme aus,
 
 ### Mittwoch, 21. März 2018
 
-Um **7:37 Uhr** zeigt der der erste Besucher des Tages, eine einzelne Meise.
+Um **7:37 Uhr** zeigt sich der erste Besucher des Tages, eine einzelne Meise.
 
 ![Einzelne Meise](/images/2018-03-21_Einzelne-Meise.png)
