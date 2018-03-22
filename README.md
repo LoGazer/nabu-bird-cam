@@ -4,7 +4,7 @@
 
 ### Freitag, 16. März 2018
 
-Um **7:57 Uhr** startet die erste Videoaufnahme ausgelöst durch einen Vogel. Die Meise ist auf dem Bild noch schlecht zu erkennen, da die automatischen Schaltzeiten der Infrarotbeleuchtung noch nicht angepasst waren. Umso beeindruckender also, wie zuverlässig die Bewegung im komplett dunklen Kasten erkannt wurde.
+Um **7:57 Uhr** startet die erste Videoaufnahme ausgelöst durch einen Vogel. Die Kohlmeise ist auf dem Bild noch schlecht zu erkennen, da die automatischen Schaltzeiten der Infrarotbeleuchtung noch nicht angepasst waren. Umso beeindruckender also, wie zuverlässig die Bewegung im komplett dunklen Kasten erkannt wurde.
 
 Die Aufnahme wurde künstlich aufgehellt, auf dem Original ist mit bloßem Auge kaum etwas zu erkennen. 
 
@@ -20,7 +20,7 @@ Um **14:34 Uhr** sorgt etwas außerhalb des Kastens für eine Unterbrechung des 
 
 Während sich am Sonntag nichts tut, wird es am Montag bereits ab **7:15 Uhr** unruhig, zwei kurze Aufnahmen werden ausgelöst. Etwas am Einflugsloch sorgt für Schattenwurf.
 
-Um **7:49 Uhr** zeigen sich dann die offenbar Verantwortlichen. Es handelt sich um ein Meisenpaar.
+Um **7:49 Uhr** zeigen sich dann die offenbar Verantwortlichen. Es handelt sich um ein Kohlmeisenpaar.
 
 ![Meisenpaar](/images/2018-03-19_Meisenpaar.png)
 
@@ -40,7 +40,7 @@ Ab **11:24 Uhr** lösen erneut zwei Aufnahmen aus. Diesmal zeigt sich ein neues 
 
 ![Neues Gesicht](/images/2018-03-20_Neues_Gesicht.png)
 
-Wie sich in der zweiten Aufnahme um **11:25 Uhr** herausstellt, kommt auch der Neuzugang nicht allein.
+Wie sich in der zweiten Aufnahme um **11:25 Uhr** herausstellt, kommt auch der Neuzugang nicht allein. Es handelt sich um ein Blaumeisenpäärchen.
 
 ![Neues Paar](/images/2018-03-20_Neues_Paar.png)
 
@@ -48,7 +48,7 @@ Auch um **12:10 Uhr** lösen rege Bewegungen mit Schattenwurf eine Aufnahme aus,
 
 ### Mittwoch, 21. März 2018
 
-Um **7:37 Uhr** zeigt sich der erste Besucher des Tages, eine einzelne Meise.
+Um **7:37 Uhr** zeigt sich der erste Besucher des Tages, eine einzelne Kohlmeise.
 
 ![Einzelne Meise](/images/2018-03-21_Einzelne-Meise.png)
 
@@ -62,6 +62,6 @@ Einige Zeit später um **12:21 Uhr** guckt eine der Kohlmeisen interessiert in d
 
 Um **13:52 Uhr** sorgen wieder Bewegungen am Einflugsloch für eine kurze Aufnahme ohne Vögel.
 
-Kurz danach, um **13:54 Uhr**, zögert eine Meise erst über eine Minute, bis sie sich dann doch in den Nistkasten wagt.
+Kurz danach, um **13:54 Uhr**, zögert eine der Kohlmeisen erst über eine Minute, bis sie sich dann doch in den Nistkasten wagt.
 
 ![Einzelne Kohlmeise](/images/2018-03-21_Kohlmeise_2.png)
