@@ -51,3 +51,17 @@ Auch um **12:10 Uhr** lösen rege Bewegungen mit Schattenwurf eine Aufnahme aus,
 Um **7:37 Uhr** zeigt sich der erste Besucher des Tages, eine einzelne Meise.
 
 ![Einzelne Meise](/images/2018-03-21_Einzelne-Meise.png)
+
+Um **8:56 Uhr** löst die Kamera zunächst durch Schattenwurf aus. Dann zeigt sich sich erneut das Kohlmeisenpaar.
+
+![Kohlmeisenpaar](/images/2018-03-21_Meisenpaar.png)
+
+Einige Zeit später um **12:21 Uhr** guckt eine der Kohlmeisen interessiert in die Kamera.
+
+![Kohlmeise schaut in Kamera](/images/2018-03-21_Kohlmeise.png)
+
+Um **13:52 Uhr** sorgen wieder Bewegungen am Einflugsloch für eine kurze Aufnahme ohne Vögel.
+
+Kurz danach, um **13:54 Uhr**, zögert eine Meise erst über eine Minute, bis sie sich dann doch in den Nistkasten wagt.
+
+![Einzelne Kohlmeise](/images/2018-03-21_Kohlmeise_2.png)
