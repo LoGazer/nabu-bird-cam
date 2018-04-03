@@ -65,3 +65,17 @@ Um **13:52 Uhr** sorgen wieder Bewegungen am Einflugsloch für eine kurze Aufnah
 Kurz danach, um **13:54 Uhr**, zögert eine der Kohlmeisen erst über eine Minute, bis sie sich dann doch in den Nistkasten wagt.
 
 ![Einzelne Kohlmeise](/images/2018-03-21_Kohlmeise_2.png)
+
+### Freitag, 23. März 2018
+
+Nach zwei Aufnahmen um **7:45 Uhr** und **7:46 Uhr** durch Schattenwurf zeigt sich um **7:47 Uhr** wieder eine Kohlmeise.
+
+![Einzelne Kohlmeise](/images/2018-03-23_Meise.jpg)
+
+Um **8:23 Uhr** scheint sie sich für die Kamera zu interessieren.
+
+![Kohlmeise guckt in die Kamera](/images/2018-03-23_Meise_Kamera.jpg)
+
+Den letzten Besuch des Tages stattet sie um **9:05 Uhr** ab.
+
+![Einzelne Kohlmeise](/images/2018-03-23_Meise_2.jpg)
